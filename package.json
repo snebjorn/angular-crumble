@@ -44,7 +44,7 @@
     "karma": "^1.5.0",
     "karma-coverage": "^1.1.1",
     "karma-jasmine": "^1.1.0",
-    "karma-jasmine-matchers": "^3.6.0",
+    "karma-jasmine-matchers": "^4.0.2",
     "karma-phantomjs-launcher": "^1.0.3",
     "karma-verbose-reporter": "0.0.6",
     "node-style-guide": "https://github.com/felixge/node-style-guide.git",
